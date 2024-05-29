@@ -30,6 +30,46 @@ header a {
     font-size: 16px;
 }
 
-p {
-    margin-top: 0px;
+.catchphrase {
+    font-size: 42px;
+    font-weight: 300;
+    margin-top: 50px;
+}
+
+.desc {
+    font-size: 21px;
+    color: gray;
+    margin-top: 30px;
+}
+
+.img {
+    margin-top: 20px;
+}
+
+.phone-icon {
+    margin-top: 30px;
+}
+
+.announcement {
+    font-size: 42px;
+    margin-top: 40px;
+}
+
+.link {
+    margin-top: 50px;
+}
+
+.link .bottom-link {
+    color: aquamarine;
+}
+
+footer {
+    height: 40px;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+    margin-top: 20px;
+    margin-right: 10px;
 }
