@@ -1,1 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
 
+body {
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    font-size: 50px;
+    background-color: transparent;
+    font-weight: normal;
+    margin-bottom: 50px;
+}
+
+header a {
+    background-color: transparent;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    margin-top: 0px;
+}
